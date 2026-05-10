@@ -115,10 +115,16 @@ $ uptime
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=0d1117)](https://linkedin.com/in/luv-goel)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=c0caf5&labelColor=0d1117)](https://twitter.com/luvgoel)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=0d1117)](mailto:luvgoel555@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c0caf5&labelColor=0d1117)](.)
+[![Email](https://img.shields.io/badge/luvgoelxyz1234%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=0d1117)](mailto:luvgoelxyz1234@gmail.com)
+[![GitHub](https://img.shields.io/badge/github/luv--goel-0d1117?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=0d1117)](https://github.com/Luv-Goel)
+
+</div>
+
+<div align="center">
+
+[![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-7aa2f7?style=for-the-badge&logo=handshake&logoColor=0d1117)](mailto:luvgoelxyz1234@gmail.com)
+[![Open Source](https://img.shields.io/badge/Open%20Source%20Enthusiast-9ece6a?style=for-the-badge&logo=opensourceinitiative&logoColor=0d1117)](https://github.com/Luv-Goel?tab=repositories)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ff9e64?style=for-the-badge&logo=buymeacoffee&logoColor=0d1117)](https://buymeacoffee.com/luvgoel)
 
 </div>
 
