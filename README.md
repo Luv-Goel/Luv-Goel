@@ -115,14 +115,14 @@ $ uptime
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/luvgoelxyz1234%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=0d1117)](mailto:luvgoelxyz1234@gmail.com)
+[![Email](https://img.shields.io/badge/luvgoelxyz1234%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=0d1117)](https://mail.google.com/mail/?view=cm&to=luvgoelxyz1234@gmail.com)
 [![GitHub](https://img.shields.io/badge/github/luv--goel-0d1117?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=0d1117)](https://github.com/Luv-Goel)
 
 </div>
 
 <div align="center">
 
-[![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-7aa2f7?style=for-the-badge&logo=handshake&logoColor=0d1117)](mailto:luvgoelxyz1234@gmail.com)
+[![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-7aa2f7?style=for-the-badge&logo=handshake&logoColor=0d1117)](https://mail.google.com/mail/?view=cm&to=luvgoelxyz1234@gmail.com)
 [![Open Source](https://img.shields.io/badge/Open%20Source%20Enthusiast-9ece6a?style=for-the-badge&logo=opensourceinitiative&logoColor=0d1117)](https://github.com/Luv-Goel?tab=repositories)
 [![Contribute](https://img.shields.io/badge/How%20to%20Contribute-ff9e64?style=for-the-badge&logo=gitbook&logoColor=0d1117)](https://github.com/Luv-Goel/Luv-Goel/blob/main/CONTRIBUTING.md)
 
