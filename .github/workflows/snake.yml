@@ -25,9 +25,15 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+        run: |
+          git init dist
+          cd dist
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
+          git add .
+          git commit -m "chore: update contribution snake [skip ci]"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/Luv-Goel/Luv-Goel.git"
+          git push --force origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
