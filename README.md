@@ -80,8 +80,8 @@ $ uptime
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Luv-Goel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_radius=12" height="165" alt="Luv's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luv-Goel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&border_radius=12" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luv-Goel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_radius=12" height="165" alt="Luv's GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luv-Goel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&border_radius=12" height="165" alt="Top Languages" />
 
 </div>
 
@@ -124,7 +124,7 @@ $ uptime
 
 [![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-7aa2f7?style=for-the-badge&logo=handshake&logoColor=0d1117)](mailto:luvgoelxyz1234@gmail.com)
 [![Open Source](https://img.shields.io/badge/Open%20Source%20Enthusiast-9ece6a?style=for-the-badge&logo=opensourceinitiative&logoColor=0d1117)](https://github.com/Luv-Goel?tab=repositories)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ff9e64?style=for-the-badge&logo=buymeacoffee&logoColor=0d1117)](https://buymeacoffee.com/luvgoel)
+[![Contribute](https://img.shields.io/badge/How%20to%20Contribute-ff9e64?style=for-the-badge&logo=gitbook&logoColor=0d1117)](https://github.com/Luv-Goel/Luv-Goel/blob/main/CONTRIBUTING.md)
 
 </div>
 
