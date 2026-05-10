@@ -86,19 +86,13 @@ $ uptime
 
 <div align="center">
 
-<a href="https://github.com/Luv-Goel/contextflow">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luv-Goel&repo=contextflow&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_color=1a1b2e&border_radius=12" />
-</a>
-<a href="https://github.com/Luv-Goel/flowBeat">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luv-Goel&repo=flowBeat&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_color=1a1b2e&border_radius=12" />
-</a>
+<!-- PROJECTS_START -->
+<a href="https://github.com/Luv-Goel/contextflow"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luv-Goel&repo=contextflow&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_color=1a1b2e&border_radius=12" /></a>
+<a href="https://github.com/Luv-Goel/flowBeat"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luv-Goel&repo=flowBeat&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_color=1a1b2e&border_radius=12" /></a>
 
-<a href="https://github.com/Luv-Goel/CodeVista">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luv-Goel&repo=CodeVista&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_color=1a1b2e&border_radius=12" />
-</a>
-<a href="https://github.com/Luv-Goel/onnx-model-surgery">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luv-Goel&repo=onnx-model-surgery&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_color=1a1b2e&border_radius=12" />
-</a>
+<a href="https://github.com/Luv-Goel/CodeVista"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luv-Goel&repo=CodeVista&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_color=1a1b2e&border_radius=12" /></a>
+<a href="https://github.com/Luv-Goel/onnx-model-surgery"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Luv-Goel&repo=onnx-model-surgery&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_color=1a1b2e&border_radius=12" /></a>
+<!-- PROJECTS_END -->
 
 </div>
 
