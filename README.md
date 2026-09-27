@@ -94,31 +94,15 @@ $ uptime
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7aa2f7,70:7aa2f7,100:0d1117&height=2" width="100%" />
 
-### ` 〉git log --stats`
+### ` >git log --stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luv-Goel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_radius=12" height="165" alt="Luv's GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luv-Goel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&border_radius=12" height="165" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luv-Goel&theme=tokyonight&utcOffset=5.5" height="165" alt="Productive Hours" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luv-Goel&theme=tokyonight" height="165" alt="Most Committed Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Luv-Goel&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1b2e&ring=7aa2f7&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=565f89&border_radius=12" width="70%" alt="Contribution Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luv-Goel&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7dcfff&area=true&area_color=1a1b2e&hide_border=true&radius=12" width="98%" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luv-Goel/Luv-Goel/output/metrics.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luv-Goel/Luv-Goel/output/metrics.svg" />
+  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/Luv-Goel/Luv-Goel/output/metrics.svg" width="98%" />
+</picture>
 
 </div>
 
